@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"这是一个Git学习程序");
+    NSLog(@"新增加了一个分支");
+    NSLog(@"location_branch分支上添加了一句话");
 }
 
 
