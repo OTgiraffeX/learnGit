@@ -22,6 +22,7 @@
     NSLog(@"新增加了一个分支");
     NSLog(@"location_branch分支上添加了一句话");
     NSLog(@"location2_branch分支上添加了一句话");
+    NSLog(@"location2_branch分支上添加了二句话");
 }
 
 
